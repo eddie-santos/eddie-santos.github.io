@@ -1,11 +1,3 @@
-Some information about you!
+I'm currently at Software Engineer at Google specializing in Machine Learning and Artificial Intelligence, and have worked previously at Airbnb and Salesforce in similar capacities. My primary interests include leveraging Machine Learning and Artifical Intelligence to solve novel and impactful problems, and to subsequently develop robust and elegant frameworks to serve new products to users. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
-
-WTF4
+My doctoral dissertation completed in Theoretical Particle Physics studied the impact of the mass of the lightest Higgs boson in the two-Higgs Doublet Model on the evolution of the universe. I'm an alumni of both Stanford University (undergraduate) and University of California, Santa Cruz (graduate). I've taken advanced coursework in everything from Physics, Mathematics, Chemistry, Biology, and Computer Science.
