@@ -10,6 +10,9 @@ As noted in yesterday's entry, this year's Giro d'Italia offers no less than 7 s
 
 The Giro this years ascends Etna from the South, instead of the more popular route from the East, thus making it difficult to provide much of an analysis since currently there are only 7 riders who have completed this segment! Still, the climb looks intimidating, as it's a roughly 12 mile slog up an average gradient of 7%. This should provide the first opportunity for the contenders separate themselves from the pretenders.
 
+![My helpful screenshot]({{ "/images/giro2018/profiles/stage-6-etna.jpg" | absolute_url }})
+
+
 ### Stage 8: Montevergine
 #### [Strava segment](https://www.strava.com/segments/8296241): 9.2 miles, 5% average gradient, 2,501 ft elevation gain
 
