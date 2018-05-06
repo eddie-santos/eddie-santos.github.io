@@ -10,17 +10,34 @@ As noted in yesterday's entry, this year's Giro d'Italia offers no less than 7 s
 
 The Giro this years ascends Etna from the South, instead of the more popular route from the East, thus making it difficult to provide much of an analysis since currently there are only 7 riders who have completed this segment! Still, the climb looks intimidating, as it's a roughly 12 mile slog up an average gradient of 7%. This should provide the first opportunity for the contenders separate themselves from the pretenders.
 
-### Stage 6: Montevergine
+### Stage 8: Montevergine
 #### [Strava segment](https://www.strava.com/segments/8296241): 9.2 miles, 5% average gradient, 2,501 ft elevation gain
 
 Tucked away in Campania in Southern Italy, the Montevergine offers a nice power climb
 
-### Stage 8: Campo Imperatore
+### Stage 9: Campo Imperatore
 #### [Strava segment](https://www.strava.com/segments/1607020): 9.2 miles, 5% average gradient, 2,501 ft elevation gain
 
 Tucked away in Campania in Southern Italy, the Montevergine offers a nice power climb
 
-### Stage 8: Monte Zoncolan
+
+### Stage 14: Monte Zoncolan
 #### [Strava segment](https://www.strava.com/segments/657601): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
+
+Tucked away in Campania in Southern Italy, the Montevergine offers a nice power climb
+
+### Stage 18: Prato Nevoso
+#### [Strava segment](https://www.strava.com/segments/1747235): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
+
+Tucked away in Campania in Southern Italy, the Montevergine offers a nice power climb
+
+### Stage 19: Monte Jafferau
+#### [Strava segment](https://www.strava.com/segments/4106767): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
+
+Tucked away in Campania in Southern Italy, the Montevergine offers a nice power climb
+
+### Stage 20: San Panteleon & Cervinia
+#### [Strava segment](https://www.strava.com/segments/1369649): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
+#### [Strava segment](https://www.strava.com/segments/9604560): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
 
 Tucked away in Campania in Southern Italy, the Montevergine offers a nice power climb
