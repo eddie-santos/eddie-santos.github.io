@@ -42,9 +42,7 @@ The Giro this years ascends Etna from the South, instead of the more popular rou
 
 ![curve-monte-jafferau]({{ "/images/giro2018/curves/jafferau.png" | absolute_url }})
 
-### Stage 20: San Panteleon & Cervinia
-#### [Strava segment](https://www.strava.com/segments/1369649): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
+### Stage 20: Cervinia
 #### [Strava segment](https://www.strava.com/segments/9604560): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
 
-![curve-san-panteleon]({{ "/images/giro2018/curves/san-panteleon.png" | absolute_url }})
 ![curve-cervinia]({{ "/images/giro2018/curves/cervinia.png" | absolute_url }})
