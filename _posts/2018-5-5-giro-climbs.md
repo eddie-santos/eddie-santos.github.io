@@ -10,6 +10,7 @@ As noted in yesterday's entry, this year's Giro d'Italia offers no less than 7 s
 ### Stage 6: Etna
 #### [Strava segment](https://www.strava.com/segments/17456582): 11.9 miles, 7% average gradient, 4,114 ft elevation gain
 
+\\( sin(x^2) \\)
 $$a^2 + b^2 = c^2$$
 
 The Giro this years ascends Etna from the South, instead of the more popular route from the East, thus making it difficult to provide much of an analysis since currently there are only 7 riders who have completed this segment! Still, the climb looks intimidating, as it's a roughly 12 mile slog up an average gradient of 7%. This should provide the first opportunity for the contenders separate themselves from the pretenders.
