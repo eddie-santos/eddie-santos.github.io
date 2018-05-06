@@ -46,5 +46,5 @@ The Giro this years ascends Etna from the South, instead of the more popular rou
 #### [Strava segment](https://www.strava.com/segments/1369649): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
 #### [Strava segment](https://www.strava.com/segments/9604560): 4.7 miles, 13% average gradient, 3,340 ft elevation gain
 
-![curve-san-panteleon]({{ "/images/giro2018/curves/san-panteleon.jpg" | absolute_url }})
-![curve-cervinia]({{ "/images/giro2018/curves/cervinia.jpg" | absolute_url }})
+![curve-san-panteleon]({{ "/images/giro2018/curves/san-panteleon.png" | absolute_url }})
+![curve-cervinia]({{ "/images/giro2018/curves/cervinia.png" | absolute_url }})
