@@ -13,15 +13,17 @@ This equation can also be inverted to give *\<power\>/mass* = *A*/*time*+*B*, wh
 
 | **stage** | **climb**            | **A**    | **B**    |
 | :--------:  | ----------------------- | :------------: | :------------: |
-| 6     | Etna             | n/a | n/a |
-| 8     | Montevergine     | 14047 | -1.1574 |
-| 9     | Campo Imperatore | 9034.7 | -1.3181 |
-| 14    | Monte Zoncolan   | 14539 | -0.5088 |
-| 18    | Prato Nevoso     | 12117 | -0.4951 |
-| 19    | Monte Jafferau   | 10069 | -1.1169 |
-| 20    | Cervinia         | 14977 | -0.5875 |
+| 6     | Etna             |    n/a     |    n/a |
+| 8     | Montevergine     |    14047    |    -1.1574    |
+| 9     | Campo Imperatore |    9034.7    |    -1.3181    |
+| 14    | Monte Zoncolan   |    14539    |    -0.5088    |
+| 18    | Prato Nevoso     |    12117    |    -0.4951    |
+| 19    | Monte Jafferau   |    10069    |    -1.1169    |
+| 20    | Cervinia         |    14977    |    -0.5875    |
 
 As an example of how this works in practice, let's say Tom Dumoulin completes Zoncolan in a time of 38:30, which equates to 2,310 seconds. Using the coefficients above, his estimated *\<power\>/mass* for the climb would be 14977/2310 + (-0.5875) = 5.896 W/kg. At an estimated race weight of 71 kg, we could estimate his power about to be 419 W over that 38:30. This applies for any rider of any mass, if we know their time on the climb.
+
+Some folks have asked if I'll do predictions before the climbs, which is a bit tough since I don't know power profiles for riders ahead of time. On the other hand, having a tool like this will be great to establish rather firmly what the power profiles for riders actually are, and will lead to more robust predictions in future races!
 
 ### Stage 6: Etna
 #### [Strava segment](https://www.strava.com/segments/17456582): 19.2 km, 7% average gradient, 1,254 m elevation gain
