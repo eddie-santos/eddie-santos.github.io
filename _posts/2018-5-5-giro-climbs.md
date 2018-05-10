@@ -22,7 +22,7 @@ At an average and fairly consistent gradient of 5%, except the Montevergine to e
 
 ![stage-8-montevergine]({{ "/images/giro2018/profiles/stage-8-montevergine.jpg" | absolute_url }})
 
-![curve-montevergine]({{ "/images/giro2018/profiles/montevergine.png" | absolute_url }})
+![curve-montevergine]({{ "/images/giro2018/curves/montevergine.png" | absolute_url }})
 
 ### Stage 9: Campo Imperatore
 #### [Strava segment](https://www.strava.com/segments/1607020): 7.7 km, 6% average gradient, 478 m elevation gain
