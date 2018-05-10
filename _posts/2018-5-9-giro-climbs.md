@@ -3,19 +3,15 @@ layout: post
 title: The summit finishes of the Giro
 ---
 
-$$a^2 + b^2 = c^2$$
-
-As noted in yesterday's entry, this year's Giro d'Italia offers no less than 7 stages ending with significant climbs, whether it be the classics of Etna and Zoncolan, or relatively unknown climbs such as Jafferau or Montevergine. Nevertheless, the penultimate climb on these stages offer a great opportunity to study the performance of the overall contenders. While of course we'll have to wait until after the riders finish a stage to analyze their results, today I'll introduce the stages with finishing climbs and show how power-to-mass can be used to predict climbing time.
+As noted in my last entry, this year's Giro d'Italia offers no less than 7 stages ending with significant climbs, whether it be the classics of Etna and Zoncolan, or relatively unknown climbs such as Jafferau or Montevergine. Nevertheless, the penultimate climb on these stages offer a great opportunity to study the performance of the overall contenders. While of course we'll have to wait until after the riders finish a stage to analyze their results, today I'll introduce the stages with finishing climbs and show how power-to-mass can be used to predict climbing time.
 
 ### Stage 6: Etna
 #### [Strava segment](https://www.strava.com/segments/17456582): 11.9 miles, 7% average gradient, 4,114 ft elevation gain
 
-\\( sin(x^2) \\)
-$$a^2 + b^2 = c^2$$
 
 The Giro this years ascends Etna from the South, instead of the more popular route from the East, thus making it difficult to provide much of an analysis since currently there are only 7 riders who have completed this segment! Still, the climb looks intimidating, as it's a roughly 12 mile slog up an average gradient of 7%. This should provide the first opportunity for the contenders separate themselves from the pretenders.
 
-![stage-6-etna]({{ "/images/giro2018/profiles/stage-6-etna.jpg" | absolute_url }})
+![stage-6-etna]({{ "/images/giro2018/profiles/stage-6-etna.jpg" | absolute_url }}=364x352)
 
 
 ### Stage 8: Montevergine
