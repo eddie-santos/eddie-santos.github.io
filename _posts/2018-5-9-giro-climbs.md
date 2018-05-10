@@ -89,3 +89,5 @@ This climb doesn't appear to be all that taxing in itself, but it comes right af
 ![curve-cervinia]({{ "/images/giro2018/curves/cervinia.png" | absolute_url }})
 
 ![stage-20-cervinia]({{ "/images/giro2018/profiles/stage-20-cervinia.jpg" | absolute_url }})
+
+That's it for today! Check back in after each of these stages for more comments and analysis.
