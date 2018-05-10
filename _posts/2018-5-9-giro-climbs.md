@@ -7,8 +7,8 @@ As noted in my last entry, this year's Giro d'Italia offers no less than 7 stage
 
 After each of the following stages end, I'll write an entry analyzing the performances of riders based on their times and the curves shown below. 
 
-| stage | climb            | A    | B    |
-| ----- | ---------------- | ---- | ---- |
+| **stage** | **climb**            | **A**    | **B**    |
+| ----- | ---------------- | :----: | :----: |
 | 6     | Etna             | 1.23 | 1.23 |
 | 8     | Montevergine     | 1.23 | 1.23 |
 | 9     | Campo Imperatore | 1.23 | 1.23 |
