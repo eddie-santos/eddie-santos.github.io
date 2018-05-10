@@ -36,45 +36,56 @@ The Giro this years ascends Etna from the South, instead of the more popular rou
 ### Stage 8: Montevergine
 #### [Strava segment](https://www.strava.com/segments/8296241): 14.8 km, 5% average gradient, 762 m elevation gain
 
-At an average and fairly consistent gradient of 5%, except the Montevergine to end in a bunch finish. A few contenders may slip due to tired legs, but the easier gradient allows for aerodynamics to come more into play, making it easier for the bigger guys to stay in contention.
+At an average and fairly consistent gradient of 5%, except the Montevergine to end in a bunch finish. A few contenders may slip due to tired legs, but the easier gradient allows for aerodynamics to come more into play, making it easier for the bigger, raw power guys to stay in contention.
+
+![curve-montevergine]({{ "/images/giro2018/curves/montevergine.png" | absolute_url }})
 
 ![stage-8-montevergine]({{ "/images/giro2018/profiles/stage-8-montevergine.jpg" | absolute_url }})
 
-![curve-montevergine]({{ "/images/giro2018/curves/montevergine.png" | absolute_url }})
 
 ### Stage 9: Campo Imperatore
 #### [Strava segment](https://www.strava.com/segments/1607020): 7.7 km, 6% average gradient, 478 m elevation gain
 
-![stage-9-gran-sasso]({{ "/images/giro2018/profiles/stage-9-gran-sasso.jpg" | absolute_url }})
+Stage 9 has a long final ascent, though only the last 7.7 km is really enough to consider a summit finish. At 6%, it's also somewhat of a power climb, thus the bigger guys won't have too much problem keeping up. Still, look for tired legs to see a favorite or two lose some time.
 
 ![curve-campo-imperatore]({{ "/images/giro2018/curves/campo-imperatore.png" | absolute_url }})
+
+![stage-9-gran-sasso]({{ "/images/giro2018/profiles/stage-9-gran-sasso.jpg" | absolute_url }})
 
 
 ### Stage 14: Monte Zoncolan
 #### [Strava segment](https://www.strava.com/segments/657601): 7.5 km, 13% average gradient, 1,018 m elevation gain
 
-![stage-14-zoncolan]({{ "/images/giro2018/profiles/stage-14-zoncolan.jpg" | absolute_url }})
+This is the climb that will make or break the Giro for the favorites. The pure climbers (e.g. Yates, Pinot, Pozzovivo) will be looking to gain as much time as possible to make up for losses in the time trials, whereas the power guys like Dumoulin and Dennis will look to limit damage. While only 7.5 km long, it's a absolutely punishing 13%, and for those of you who haven't witness a prolonged gradient like this, it's absolute hell. Attacks will fly, and they'll fly early.
 
 ![curve-monte-zoncolan]({{ "/images/giro2018/curves/monte-zoncolan.png" | absolute_url }})
+
+![stage-14-zoncolan]({{ "/images/giro2018/profiles/stage-14-zoncolan.jpg" | absolute_url }})
 
 
 ### Stage 18: Prato Nevoso
 #### [Strava segment](https://www.strava.com/segments/1747235): 10.6 km, 8% average gradient, 805 m elevation gain
 
-![stage-18-prato-nevoso]({{ "/images/giro2018/profiles/stage-18-prato-nevoso.jpg" | absolute_url }})
+Prato Nevoso offers a fairly straightforward and consistent 8%, which ever so slightly favors pure climbers over the big guys. My guess is this day will go to whoever is feeling freshest. This climb doesn't have a lot of rides on Strava, but enough to do get some level of estimates.
 
 ![curve-prato-nevoso]({{ "/images/giro2018/curves/prato-nevoso.png" | absolute_url }})
+
+![stage-18-prato-nevoso]({{ "/images/giro2018/profiles/stage-18-prato-nevoso.jpg" | absolute_url }})
 
 ### Stage 19: Monte Jafferau
 #### [Strava segment](https://www.strava.com/segments/4106767): 6.7 km, 9% average gradient, 610 m elevation gain
 
-![stage-19-jaggerau]({{ "/images/giro2018/profiles/stage-19-jafferau.jpg" | absolute_url }})
+Slightly shorter but steeper than the Prato Nevoso of stage 18, expect to see lots of attacks as riders will be desperate to make up lost time. Like the Prato, this climb also doesn't have many efforts with power meters on Strava, but we do have enough to get an estimate.
 
 ![curve-monte-jafferau]({{ "/images/giro2018/curves/jafferau.png" | absolute_url }})
+
+![stage-19-jaggerau]({{ "/images/giro2018/profiles/stage-19-jafferau.jpg" | absolute_url }})
 
 ### Stage 20: Cervinia
 #### [Strava segment](https://www.strava.com/segments/9604560): 17.8 km, 5% average gradient, 958 m elevation gain
 
-![stage-20-cervinia]({{ "/images/giro2018/profiles/stage-20-cervinia.jpg" | absolute_url }})
+This climb doesn't appear to be all that taxing in itself, but it comes right after the brutal San Pantaleon climb, at the end of 3 heavy days of climbing, and of course, the last day of the overall for the contenders. Anything can happen, perhaps attacks fly on the earlier climbs and the race is broken into pieces before this final climb, or perhaps everyone stays together and folks clamor to gain minor placings. If their is still a competition for the overall title, I'd expect the winning move to come on the San Panteleon with the maglia rosa bleeding time on the Cervinia.
 
 ![curve-cervinia]({{ "/images/giro2018/curves/cervinia.png" | absolute_url }})
+
+![stage-20-cervinia]({{ "/images/giro2018/profiles/stage-20-cervinia.jpg" | absolute_url }})
