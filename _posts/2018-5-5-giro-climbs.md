@@ -5,7 +5,17 @@ title: The summit finishes of the Giro
 
 As noted in my last entry, this year's Giro d'Italia offers no less than 7 stages ending with significant climbs, whether it be the classics of Etna and Zoncolan, or relatively unknown climbs such as Jafferau or Montevergine. Nevertheless, the penultimate climb on these stages offer a great opportunity to study the performance of the overall contenders. While of course we'll have to wait until after the riders finish a stage to analyze their results, today I'll introduce the stages with finishing climbs and show how power-to-mass can be used to predict climbing time.
 
-After each of the following stages end, I'll write an entry analyzing the performances of riders based on their times and the curves shown below.
+After each of the following stages end, I'll write an entry analyzing the performances of riders based on their times and the curves shown below. 
+
+| stage | climb            | A    | B    |
+| ----- | ---------------- | ---- | ---- |
+| 6     | Etna             | 1.23 | 1.23 |
+| 8     | Montevergine     | 1.23 | 1.23 |
+| 9     | Campo Imperatore | 1.23 | 1.23 |
+| 14    | Monte Zoncolan   | 1.23 | 1.23 |
+| 18    | Prato Nevoso     | 1.23 | 1.23 |
+| 19    | Monte Jafferau   | 1.23 | 1.23 |
+| 20    | Cervinia         | 1.23 | 1.23 |
 
 ### Stage 6: Etna
 #### [Strava segment](https://www.strava.com/segments/17456582): 19.2 km, 7% average gradient, 1,254 m elevation gain
