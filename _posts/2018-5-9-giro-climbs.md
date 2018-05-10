@@ -3,12 +3,13 @@ layout: post
 title: The summit finishes of the Giro
 ---
 
-As noted in my last entry, this year's Giro d'Italia offers no less than 7 stages ending with significant climbs, whether it be the classics of Etna and Zoncolan, or relatively unknown climbs such as Jafferau or Montevergine. Nevertheless, the penultimate climb on these stages offer a great opportunity to study the performance of the overall contenders. While of course we'll have to wait until after the riders finish a stage to analyze their results, today I'll introduce the stages with finishing climbs and show how power-to-mass can be used to predict climbing time.
+As noted in my last entry, this year's Giro d'Italia offers no less than 7 stages ending with substantial climbs. Summit finishes are great as they offer a unique opportunity to glimpse into the capabilities of the overall contenders, as if you're contending, you pretty much have to go full gas uphill! 
 
-After each of the following stages end, I'll write an entry analyzing the performances of riders based on their times and the curves shown below. 
+In today's entry, I'll introduce the summit finishes as well as show data from actual riders with power meters (and their associated masses) for these climbs. I also provide the equations for each climb to determine a riders average power-to-mass ratio for a climb given their time to finish, and vice-versa, this way we can analyze a rider's performance after each of these climbs is completed. As noted in my last entry, the requisite equation between these power-to-mass and time is given by *time* = *A*/(*<power>*/*mass*-*B*), where *time* is given in seconds, *<power>* denotes average power over the climb in Watts, and *mass* is the mass of the rider in kilograms. *A* and *B* are coefficients determined from Strava data for each climb, only from riders who have used a power meter and their associated mass. Note that the model implicitly takes into equipment mass, so the mass here is strictly the mass of the rider. This equation can also be inverted to give *<power>/mass* = *A*/*time*+*B*, which is probably of more interest given that we'll know or can infer climbing times for riders.
 
+<center>
 | **stage** | **climb**            | **A**    | **B**    |
-| ----- | ---------------- | :----: | :----: |
+| :-----:  | ---------------- | :----: | :----: |
 | 6     | Etna             | 1.23 | 1.23 |
 | 8     | Montevergine     | 1.23 | 1.23 |
 | 9     | Campo Imperatore | 1.23 | 1.23 |
@@ -16,6 +17,7 @@ After each of the following stages end, I'll write an entry analyzing the perfor
 | 18    | Prato Nevoso     | 1.23 | 1.23 |
 | 19    | Monte Jafferau   | 1.23 | 1.23 |
 | 20    | Cervinia         | 1.23 | 1.23 |
+</center>
 
 ### Stage 6: Etna
 #### [Strava segment](https://www.strava.com/segments/17456582): 19.2 km, 7% average gradient, 1,254 m elevation gain
