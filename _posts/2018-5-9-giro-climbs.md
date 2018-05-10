@@ -12,7 +12,7 @@ As noted in my last entry, the requisite equation between these power-to-mass an
 This equation can also be inverted to give *\<power\>/mass* = *A*/*time*+*B*, which is probably of more interest given that we'll know or can infer climbing times for riders.
 
 | **stage** | **climb**            | **A**    | **B**    |
-| :-----:  | ---------------- | :-------: | :-------: |
+| :--------:  | ----------------------- | :------------: | :------------: |
 | 6     | Etna             | n/a | n/a |
 | 8     | Montevergine     | 14047 | -1.1574 |
 | 9     | Campo Imperatore | 9034.7 | -1.3181 |
