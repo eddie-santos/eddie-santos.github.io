@@ -15,11 +15,11 @@ What does this all mean? This is going to be a wide open Giro, and the winner wi
 
 Though long at 14.8 km, Montevergine [(Strava segment)](https://www.strava.com/segments/8296241) proved not to be steep enough for the leaders to separate themselves, with a pack finish amongst the favorites. With that said, let's still take a look to see how time of completion maps to average power-to-mass over the climb to get an idea of their performances. As described in my [Giro climb summary entry](https://eddie-santos.github.io/giro-climbs/), power-to-mass for a rider up Montevergine can be described by their completion time given the equation
 
-$$ \frac{<power>}{mass} = \frac{14047 W/kg*s}{time (s)} + (-1.1574 W/kg)$$,
+$$ \frac{<power>}{mass} = \frac{14047 W/kg*s}{time (s)} + (-1.1574 W/kg)$$
 
-which is shown inverted in the following figure, as fit to Strava data using only results recorded with a power meter:
+which is shown inverted in the following figure, as fit to Strava data using only results recorded with a power meter.
 
-![montevergine]({{ "/images/giro2018/curves/montevergine.png" | absolute_url }})
+![montevergine]({{ "/images/giro2018/curves/montevergine.jpg" | absolute_url }})
 
 The results of this equation applied to the favorites is shown in the table below.
 
@@ -44,9 +44,9 @@ It's pretty amazing to see the power outputs were effectively the same as Etna, 
 
 Gran Sasso turned out to be a decisive climb as noted above, Yates was able claw time over other favorites, notable Dumoulin and Froome, the latter of whom last over a minute in the finale. Though the climb is longer than the [Strava segment](https://www.strava.com/segments/1607020) I've chosen to analyze, I think it's more instructive to study the last section, as there is a relative lull in the longer segment. To study the efforts on this climb by fitting the Strava data to our representative climb equation, we obtain
 
-$$ \frac{<power>}{mass} = \frac{7752.3 W/kg*s}{time (s)} + (-0.67723 W/kg)$$,
+$$ \frac{<power>}{mass} = \frac{7752.3 W/kg*s}{time (s)} + (-0.67723 W/kg)$$
 
-which is shown inverted in the following figure, as fit to Strava data using only results recorded with a power meter:
+which is shown inverted in the following figure, as fit to Strava data using only results recorded with a power meter.
 
 ![campo-imperatore]({{ "/images/giro2018/curves/campo-imperatore.png" | absolute_url }})
 
