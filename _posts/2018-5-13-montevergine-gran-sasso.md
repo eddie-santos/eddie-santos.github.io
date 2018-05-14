@@ -11,38 +11,66 @@ Perhaps intriguing is the level of performance we have seen out of the tradition
 
 What does this all mean? This is going to be a wide open Giro, and the winner will have certainly earned it. With that said, let's take a look at the Strava data from this weekend's two summit finishes, as well as estimate the performance of key riders on the climbs. For reference, an over of the climbs is given in [one of my entries](https://eddie-santos.github.io/giro-climbs/) from last week.
 
-### Montevergine
+## Montevergine
 
-Though long at 14.8 km, Montevergine proved not to be steep enough for the leaders to separate themselves, with a pack finish amongst the favorites. With that said, let's still take a look to see how time of completion maps to average power-to-mass over the climb to get an idea of their performances. As described in my [Giro climb summary entry](https://eddie-santos.github.io/giro-climbs/), power-to-mass for a rider up Montevergine can be described by their completion time given the equation
+Though long at 14.8 km, Montevergine [(Strava segment)](https://www.strava.com/segments/8296241) proved not to be steep enough for the leaders to separate themselves, with a pack finish amongst the favorites. With that said, let's still take a look to see how time of completion maps to average power-to-mass over the climb to get an idea of their performances. As described in my [Giro climb summary entry](https://eddie-santos.github.io/giro-climbs/), power-to-mass for a rider up Montevergine can be described by their completion time given the equation
 
-$$ \<power\>/mass = A/time + B$$
+$$ \frac{<power>}{mass} = \frac{14047 W/kg*s}{time (s)} + (-1.1574 W/kg)$$,
 
-The fit to the data is remarkably good, and so now the fun begins. We know that the group of favorites started the segment at more or less the same time, though differences in placement at the beginning and end of the segment can lead to modulations of a few seconds, in regards to Strava segment times. The equation obtained for estimating power-to-mass from time on the climb from fitting to the data, is given by:
+which is shown inverted in the following figure, as fit to Strava data using only results recorded with a power meter:
 
-*\<power\>/mass* = (14888 W/kg\*s)/(*time in seconds*) + (1.05431 W/kg)
+![montevergine]({{ "/images/giro2018/curves/montevergine.png" | absolute_url }})
 
-Combining this equation Strava times and the official results on the stage, we can infer the following results. Note that the rider masses were obtained from (in order) their Strava profiles, procyclingstats.com, or via Google searching.
+The results of this equation applied to the favorites is shown in the table below.
 
-| Place 	| Name               	| Stage time 	| Strava Etna time 	| Est. Etna time 	| Est. \<p\>/m (W/kg) 	| mass (kg) 	| Est. \<p\> (W)|
+| Place 	| Name               	| Stage time 	| Strava time 	    | Est. time 	    | Est. W/kg         	| mass (kg) 	| Est. power (W)|
 |-------	|--------------------	|------------	|------------------	|----------------	|-------------------	|---------------|--------------	|
-| 2     	| Simon Yates        	| 4:16:11    	|                  	| 34:25          	| 6.06              	| 59.65   	    | 360          	|
-| 3     	| Thibaut Pinot      	| +26\"       	| 34:51            	|                	| 5.97              	| 65      	    | 388          	|
-| 4     	| George Bennett     	| s.t.       	|                  	| 34:52          	| 5.97              	| 58      	    | 346          	|
-| 5     	| Domenico Pozzivivo 	| s.t.       	|                  	| 34:52          	| 5.97              	| 53      	    | 316          	|
-| 6     	| Miguel Angel Lopez 	| s.t.       	|                  	| 34:53          	| 5.96              	| 65      	    | 388          	|
-| 8     	| Tom Dumoulin       	| s.t.       	|                  	| 34:53          	| 5.96              	| 71      	    | 423          	|
-| 9     	| Fabio Aru          	| s.t.       	|                  	| 34:54          	| 5.96              	| 66      	    | 393          	|
-| 10    	| Chris Froome       	| s.t.       	|                  	| 34:54          	| 5.96              	| 68      	    | 405          	|
-| 12    	| Ben O'Connor       	| +43\"       	| 35:00            	| 35:06          	| 5.92              	| 66      	    | 391          	|
-| 16    	| Michael Woods      	| +57\"       	| 35:20            	|                	| 5.87              	| 63      	    | 370          	|
-| 21    	| Rohan Dennis       	| +1\'04\"     	|                  	| 35:27          	| 5.85              	| 71      	    | 415          	|
+| 1     	| Richard Carapaz       | 5:11:35    	|                  	| 31:03          	| 5.99              	| 62     	    | 371          	|
+| 3     	| Thibaut Pinot      	| +7"       	| 31:10            	|                	| 5.97              	| 65      	    | 387          	|
+| 5     	| Simon Yates     	    | s.t.       	|                  	| 31:10          	| 5.97              	| 59.65    	    | 355          	|
+| 6     	| Domenico Pozzivivo 	| s.t.       	|                  	| 31:11          	| 5.97              	| 53      	    | 316          	|
+| 7     	| Esteban Chavez     	| s.t.       	|                  	| 31:11          	| 5.96              	| 55      	    | 327          	|
+| 9     	| Mike Woods       	    | s.t.       	| 31:11             |               	| 5.96              	| 63      	    | 375          	|
+| 11    	| Tom Dumoulin          | s.t.       	|                  	| 31:12          	| 5.96              	| 71      	    | 423          	|
+| 13    	| Rohan Dennis       	| s.t.       	|                  	| 31:12          	| 5.96              	| 71      	    | 423          	|
+| 14    	| Miguel Angel Lopez    | s.t.       	|                	| 31:13          	| 5.96              	| 65      	    | 387          	|
+| 15    	| George Bennett      	| s.t.       	| 31:14            	|                	| 5.95              	| 58      	    | 345          	|
+| 20    	| Fabio Aru       	    | s.t.       	|                  	| 31:15          	| 5.95              	| 66      	    | 392          	|
+| 22        | Chris Froome          | s.t.          |                   | 31:15             | 5.95                  | 68            | 404           |   
 
-#### Discussion
+It's pretty amazing to see the power outputs were effectively the same as Etna, with the performances just about at 6 W/kg. I wouldn't be surprised if these numbers were just a tiny bit lower in reality, since the climb today probably offered a small amount of drafting. Still, it's amazing to see the consistency of threshold efforts across different climbs, and the level these athletes are at during this edition of the Giro. At this point, it's almost a game of who can repeat this performance over the course of the race, as any rider is prone to having a bad day on any particular day. Also amazing to see is the discrepancy in powers across the riders, given their differences in mass. Pozzovivo needed only 316 W to keep up, whereas Dumoulin and Dennis pushed out a massive 423 W, and it's differences like these why we see the likes of the latter two much more dominant in the long, flat time trials, where raw power counts for so much more.
 
-Overall, these results look pretty reasonable. Yates had an incredible performance of 6.06 W/kg, which is consistent with a clean performance of this caliber of athlete. His estimated raw power of 360 W, based on a self described mass of 131.5 lbs, is pretty good considering his diminuitive stature. The others finishing in the pack come in about 5.97 W/kg, which feels about right, considering that the two main favorites, Dumoulin and Froome, have appeared to in peak shape this Spring. Dumoulin's mass is a bit harder to find, but I'd guess he's about 71 kg, putting his power output at 423 W, and Froome at a noted race weight of 68 Kg, at 405 W. Froome's performance is fairly consistent with other power outputs we've seen from him: [414 W on the final climb](http://www.cyclingnews.com/news/team-sky-reveal-froomes-tour-de-france-data-from-stage-10/) of Stage 10 of the 2015 Tour de France, and expectedly lower given that he doesn't appear to be in top form. More than anything, Froome appears to be missing that top end speed used to attack rivals, and he's just using his massive engine to hang on right now. This makes sense given his plan to try to race into form during the final week of the Giro, and try to hold form into the Tour de France.
+## Campo Imperatore (Gran Sasso)
 
-Of these riders, only two (O'Connor & Woods) recorded their power performances on Strava, and they're a bit lower than those given here, however I have reason to suspect it's a problem with their power meters. For example, analyzing Wood's effort on the segment reveals that there was as 30" period at the end of the climb that he didn't record any cadence or power, which is more or less impossible when going uphill. It was likely a malfunction with his Vector pedals, or perhaps well known helicopter interference. If his 335W could be believed, it would correspend to a 5.3 W/kg performance, which would put him into the strong amateur racer bucket, of which he's way beyond.
+Gran Sasso turned out to be a decisive climb as noted above, Yates was able claw time over other favorites, notable Dumoulin and Froome, the latter of whom last over a minute in the finale. Though the climb is longer than the [Strava segment](https://www.strava.com/segments/1607020) I've chosen to analyze, I think it's more instructive to study the last section, as there is a relative lull in the longer segment. To study the efforts on this climb by fitting the Strava data to our representative climb equation, we obtain
 
-Thus far, Yates is looking like a serious challenger. He's really come into this race in great form, and this may be when we see him ascend from fringe contender to favorite in future races. It would be surprising if he doesn't manage to put time into Dumoulin and Froome during the coming climbs, notably Zoncolan, for which raw power means far less than power-to-mass, though he'll have to hope to put in enough to fend them off in the time trial.
+$$ \frac{<power>}{mass} = \frac{7752.3 W/kg*s}{time (s)} + (-0.67723 W/kg)$$,
 
-Stay tuned! This weekend holds two great climbing stages, and I'll post analysis shortly after the conclusion of each stage. 
+which is shown inverted in the following figure, as fit to Strava data using only results recorded with a power meter:
+
+![campo-imperatore]({{ "/images/giro2018/curves/campo-imperatore.png" | absolute_url }})
+
+The results of this equation applied to the favorites is shown in the table below.
+
+| Place 	| Name               	| Stage time 	| Strava time    	| Est. time     	| Est. W/kg          	| mass (kg) 	| Est. power (W)|
+|-------	|--------------------	|------------	|------------------	|----------------	|-------------------	|---------------|--------------	|
+| 1     	| Simon Yates           | 5:54:13    	|               	| 19:24          	| 5.98              	| 59.65   	    | 356          	|
+| 2     	| Thibaut Pinot      	| s.t.       	| 19:25            	|                	| 5.98              	| 65      	    | 388          	|
+| 3     	| Esteban Chavez     	| s.t.       	| 19:25            	|               	| 5.98              	| 55    	    | 328          	|
+| 4     	| Domenico Pozzivivo 	| +4"       	|                  	| 19:29          	| 5.97              	| 53      	    | 315          	|
+| 5     	| Richard Carapaz     	| s.t.       	|                  	| 19:30          	| 5.95              	| 62      	    | 368          	|
+| 7     	| George Bennett       	| +12"       	|                   | 19:41            	| 5.89              	| 58      	    | 341          	|
+| 8     	| Tom Dumoulin          | s.t.       	|                  	| 19:42          	| 5.88              	| 71      	    | 417          	|
+| 9     	| Miguel Angel Lopez    | s.t.       	|                	| 19:43          	| 5.88              	| 65      	    | 381          	|
+| 12    	| Mike Woods            | +36"       	| 19:59            	|               	| 5.79              	| 63      	    | 364          	|
+| 21    	| Rohan Dennis      	| +1'02"       	|                	| 20:26            	| 5.65              	| 71      	    | 400          	|
+| 23    	| Chris Froome       	| +1'07"       	|                  	| 20:31          	| 5.62              	| 68      	    | 382          	|
+| 24        | Fabio Aru             | +1'14"        |                   | 20:38             | 5.58                  | 66            | 368           |
+
+Wow. It's incredible to see the consistency of performance from climb-to-climb, with the day's first finisher always coming in right around 6 W/kg. Unlike the previous couple of climbs, Etna and Montevergine, in which all of the main contenders finished in the 5.9-6 W/kg range (except for Yates' incredible 6.06 W/kg Etna performance), Campo Imperatore was the first day in which riders were found out. Yates, the winner on the day, came in at 5.98 W/kg, consistent with the other performance, yet the big losers on the day, notably Froome, verifiably cracked. Froome, who had outputted dual performances at about 405 W (about 10 W than his notable performances at the Tour de France), only mustered 382 W today.
+
+The big takeaway from today's performances is that top end form isn't enough, rather it's consistency with top form that makes a grand tour champion. One bad day and you could very well have sacrificed your chances at the podium. While Yates as been remarkable, his performances haven't separated him all that much from the other contenders in terms of power-to-mass. Rather, maybe he had one really good day, but he's just been consistent at that top level thus far. Froome on the other hand, got found out. He didn't have it, perhaps for a lack of training, perhaps from stress via the media surrounding his legal case, or perhaps simply just a bad day. Either way, at 5.62 W/kg, there's no hiding he wasn't dropped by an extraordinary performance, rather, he may not be in the condition we've come to know him during July.
+
+Moreover, it's particularly gratifying to see results around 6 W/kg. Sure, you could argue this isn't the Tour de France so perhaps this isn't the cream of the crop, at least in terms of conditioning, but these are some of the perennial favorites, and they aren't producing values that we see in the Lance Armstrong era, which were approaching 7 W/kg. As a physicist and machine learning specialist, admittedly there is some wiggle room in these values, but in practice I've found them to be quite small, about 1% (+/- 5 W) or so at most. The equation is based off of physics calculations I've done, and instead of estimating hard-to-estimate parameters such as friction, cross-sectional area, and wind speed, I simply infer them by fitting my derived equation to actual data.
+
+Next up we have Monte Zoncolan on stage 14, and in my eyes promises to be the one of the two defining moments of this Giro, along with the time trial on stage 16. The climbers need to distance the likes of Dumoulin (let alone each other) to have a real chance at the title, Dumoulin has the ability to take minutes from them. At an absolutely brutal average gradient of 13%, Zoncolan will absolutely favor climbers with smaller weights, and my guess is that Dumoulin will lose around a minute to the likes of Yates, who I might expect to take the day given his form and his very slight stature. The real question is if a lead of 1-2 minutes will be enough to stay away in the time trial, as the climbs during the last week aren't formidable enough to offer a decisive advantage to the pure climbers. Either way, this should make for a close battle heading into Rome, and I'll be posting more updates along the way!
