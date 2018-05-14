@@ -4,31 +4,18 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- CSS -->
-  <style>
-  {% capture include_to_scssify %} {% include main.scss %} {% endcapture %}
-  {{ include_to_scssify | scssify }}
-  </style>
 
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-144-precomposed.png">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
-  <!-- RSS (well, actually Atom) -->
-  {% comment %} From jekyll/jekyll-feed {% endcomment %}
-  {% feed_meta %}
+  {% include meta.html %}
 
-  <!-- Twitter Card and OpenGraph Tags -->
-  {% comment %} From jekyll/jekyll-seo-tag {% endcomment %}
-  {% seo %}
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
-  {% if jekyll.environment == 'production' %}
-    <!-- Google Analytics -->
-    {% include analytics.html %}
-  {% endif %}
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-  {% if page.use_latex %}
-    <!-- MathJax -->
-    {% include mathjax.html %}
-  {% endif %}
+  <!-- MathJax -->
+  {% include mathjax.html %}
 </head>
