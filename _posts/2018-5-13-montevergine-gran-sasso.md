@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giro 2018: Montevergine & Gran Sasso
+title: Giro 2018: Montevergine, Gran Sasso
 ---
 
 This weekend featured two summit finishes, up the Montevergine and Campo Imperatore (Gran Sasso) on Saturday and Sunday, respectively. As I expected, the Montevergine proved to be a non-factor in the battle for the overall, save for the young Ecuadorian Movistar rider, Ricard Carapaz jumping out of the pack late in climb to take 7 seconds over his competitors. At 5%, Montevergine is more of a power climb, where the big riders aren't as hampered by their larger weight if they can apply more apply, and moreover aerodynamics becoming a non-neglibible factor provided the climbing speed is high enough, which it turned out to be on a relatively easy gradient.
